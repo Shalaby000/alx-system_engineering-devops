@@ -1,0 +1,3 @@
+#!/bin/bash
+prinf "%.2f
+" $NUM
